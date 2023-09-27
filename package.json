@@ -13,7 +13,7 @@
   "author": "sns",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^3.0.6",
     "csurf": "^1.9.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
@@ -22,7 +22,7 @@
     "express-session": "^1.15.6",
     "flash": "^1.1.0",
     "libxmljs": "^0.19.1",
-    "mathjs": "3.10.1",
+    "mathjs": "^4.0.0",
     "md5": "^2.2.1",
     "morgan": "^1.9.0",
     "mysql2": "^1.4.2",
