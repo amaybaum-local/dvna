@@ -37,7 +37,7 @@ jobs:
           WS_USERKEY: ${{secrets.USERKEY}}
           WS_WSS_URL: https://saas.mend.io/agent
           WS_PRODUCTNAME: GH_${{github.event.repository.name}}
-          WS_PROJECTNAME: NodeGoat_Prioritize
+          WS_PROJECTNAME: dvna_Prioritize
           WS_ENABLEIMPACTANALYSIS: true
           WS_RESOLVEALLDEPENDENCIES: false
           WS_NPM_RESOLVEDEPENDENCIES: true
